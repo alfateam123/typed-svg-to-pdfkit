@@ -4,9 +4,3 @@ export = svg_to_pdfkit;
 
 declare function svg_to_pdfkit(doc: any, svg: any, x: any, y: any, options: any, ...args: any[]): any;
 
-declare namespace svg_to_pdfkit {
-    const prototype: {
-    };
-
-}
-
