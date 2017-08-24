@@ -1,6 +1,6 @@
 {
   "name": "svg-to-pdfkit",
-  "main": "source.d.ts",
+  "main": "index.d.ts",
   "homepage": "https://github.com/alafr/SVG-to-PDFKit#readme",
   "version": "0.1.2",
   "globalDevDependencies": {
